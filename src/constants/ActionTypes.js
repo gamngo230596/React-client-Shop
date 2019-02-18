@@ -1,0 +1,2 @@
+export const ALL_PRODUCT='ALL_PRODUCT';
+export const READ_PRODUCT='READ_PRODUCT';
